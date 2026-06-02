@@ -1,6 +1,3 @@
-<!-- <div align="center">
-  <img src="https://github.com/Lakshmanp145/Lakshmanp145/blob/main/Banner.png" alt="GitHub Banner" width="800"/>
-</div> -->
 
 # 👋 Hi, I'm Algot Sarika
 
@@ -12,7 +9,7 @@
 
 ---
 
-Passionate **DevOps & AWS Cloud Engineer** with **3.7 years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
+Passionate **DevOps & AWS Cloud Engineer** with **4 years of experience** in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
 
 ---
 
